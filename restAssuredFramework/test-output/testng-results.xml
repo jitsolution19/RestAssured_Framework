@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-26T16:37:20Z" name="Default suite" finished-at="2018-12-26T16:37:36Z" duration-ms="16719">
+    <groups>
+    </groups>
+    <test started-at="2018-12-26T16:37:20Z" name="Default test" finished-at="2018-12-26T16:37:36Z" duration-ms="16719">
+      <class name="zomatoAPI_Automation.Find_restaurant_in_Jhansi">
+        <test-method signature="ListofRestaurant()[pri:0, instance:zomatoAPI_Automation.Find_restaurant_in_Jhansi@6913c1fb]" started-at="2018-12-26T16:37:20Z" name="ListofRestaurant" finished-at="2018-12-26T16:37:36Z" duration-ms="16689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListofRestaurant -->
+      </class> <!-- zomatoAPI_Automation.Find_restaurant_in_Jhansi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
