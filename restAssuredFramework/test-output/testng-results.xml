@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-26T16:37:20Z" name="Default suite" finished-at="2018-12-26T16:37:36Z" duration-ms="16719">
+  <suite started-at="2018-12-30T18:30:25Z" name="Default suite" finished-at="2018-12-30T18:30:32Z" duration-ms="7188">
     <groups>
     </groups>
-    <test started-at="2018-12-26T16:37:20Z" name="Default test" finished-at="2018-12-26T16:37:36Z" duration-ms="16719">
+    <test started-at="2018-12-30T18:30:25Z" name="Find Restaurant in Jhansi Rest API test" finished-at="2018-12-30T18:30:32Z" duration-ms="7188">
       <class name="zomatoAPI_Automation.Find_restaurant_in_Jhansi">
-        <test-method signature="ListofRestaurant()[pri:0, instance:zomatoAPI_Automation.Find_restaurant_in_Jhansi@6913c1fb]" started-at="2018-12-26T16:37:20Z" name="ListofRestaurant" finished-at="2018-12-26T16:37:36Z" duration-ms="16689" status="PASS">
+        <test-method signature="ListofRestaurant()[pri:0, instance:zomatoAPI_Automation.Find_restaurant_in_Jhansi@1e66f1f5]" started-at="2018-12-30T18:30:25Z" name="ListofRestaurant" finished-at="2018-12-30T18:30:32Z" duration-ms="7162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ListofRestaurant -->
       </class> <!-- zomatoAPI_Automation.Find_restaurant_in_Jhansi -->
-    </test> <!-- Default test -->
+    </test> <!-- Find Restaurant in Jhansi Rest API test -->
   </suite> <!-- Default suite -->
 </testng-results>

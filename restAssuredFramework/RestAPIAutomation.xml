@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+	<test name="Find Restaurant in Jhansi Rest API test">
+		<classes>
+			<class name="zomatoAPI_Automation.Find_restaurant_in_Jhansi">
+			</class>
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
