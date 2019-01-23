@@ -3,11 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="zomatoAPI_Automation.Find_restaurant_in_Jhansi">
+      <class name="getrequest.Getdata">
         <methods>
-          <include name="ListofRestaurant"/>
+          <include name="testresponsecode"/>
+          <include name="Sessionid"/>
+          <include name="lotto_resource_returns_200_with_expected_id_and_winners"/>
+          <include name="getinformation"/>
+          <include name="tbody"/>
         </methods>
-      </class> <!-- zomatoAPI_Automation.Find_restaurant_in_Jhansi -->
+      </class> <!-- getrequest.Getdata -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
